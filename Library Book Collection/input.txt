@@ -1,0 +1,10 @@
+display 0-02-360692-4
+display 1-55860-829-2
+search  network
+search  beatles
+remove   1-85233-536-X
+checkout 0-02-360692-4
+checkout 1-85233-536-X
+checkout 0-02-360692-4
+return   1-85233-536-X
+show all

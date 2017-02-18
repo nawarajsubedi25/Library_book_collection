@@ -1,0 +1,13 @@
+Fundamentals of Secure Computer Systems,Brett Tjaden,Franklin Beedle & Assoc,2004,1-887902-66-X
+The Dictionary of Computing & Digital Media,Brad Hansen,Franklin Beedle & Assoc,2004,1-887902-38-4
+MySQL(TM) : The Complete Reference,Vikram Vaswani,McGraw Hill,2004,0-072224770
+Communication Networks,Alberto Leon,McGraw Hill,2004,007246352X
+Principles and Practices of Interconnection Networks,William Dally,Morgan Kauffmann,2003,0-12200-751-4
+Bioinformatics ,Zoe Lacroix,Morgan Kauffmann,2003,1-55860-829-1
+Algorithms,Richard Johnsonbaugh and Marcus Schaefer,Prentice Hall,2004,0-02-360692-4
+Fundamentals of Multimedia,Drew & Li,Prentice Hall,2004,0-13-061873-1
+Computer Networking with Internet Protocols,William Stallings,Prentice Hall,2004,0-13-141098-9
+Network Management: Concepts and Practice,J. Richard Burke,Prentice Hall,2004,0-13-032950-9
+Extreme Software Engineering A Hands-On Approach,Steinberg & Palmer,Prentice Hall,2004,0-13-047388-1
+Essential Mathematical Biology,N.F. Britton,Springer,2003,1-85233-536-X
+Programming Challenges,Skienna & Revilla,Springer Verlag,2003,0-387-00163-8
